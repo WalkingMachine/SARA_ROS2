@@ -1,0 +1,11 @@
+repositories:
+  sr2_teleop:
+    type: git
+    url: https://github.com/WalkingMachine/SR2_teleop.git
+    version: master
+  sr2_arm:
+    type: git
+    url: https://github.com/WalkingMachine/SR2_arm.git
+    version: master
+  
+  
