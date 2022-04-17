@@ -1,4 +1,8 @@
 repositories:
+  sr2_interfaces:
+    type: git
+    url: https://github.com/WalkingMachine/sr2_interfaces.git
+    version: master
   sr2_teleop:
     type: git
     url: https://github.com/WalkingMachine/SR2_teleop.git
